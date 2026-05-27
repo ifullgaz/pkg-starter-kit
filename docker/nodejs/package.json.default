@@ -1,0 +1,9 @@
+{
+  "name": "installer",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "giget": "^3.2.0"
+  }
+}

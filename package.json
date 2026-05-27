@@ -7,9 +7,13 @@
   },
   "type": "module",
   "files": [
-    "build",
-    "!build/bin",
-    "!build/tests"
+    "build/src",
+    "build/providers",
+    "build/stubs",
+    "build/index.d.ts",
+    "build/index.js",
+    "build/configure.d.ts",
+    "build/configure.js"
   ],
   "exports": {
     ".": "./build/index.js",
